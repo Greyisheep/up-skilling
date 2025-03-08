@@ -1,5 +1,3 @@
-
-```markdown
 # 10-Day Software Engineering Skills Improvement Plan
 
 ## Days 1-10 Overview
@@ -147,4 +145,3 @@ graph TD
 - [Designing Data-Intensive Applications](https://dataintensive.net/)
 - [PostgreSQL Official Documentation](https://www.postgresql.org/docs/)
 - [Distributed Systems Patterns](https://martinfowler.com/articles/patterns-of-distributed-systems/)
-```
